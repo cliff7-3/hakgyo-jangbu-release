@@ -4,7 +4,7 @@
 
 ## 받기
 
-**[최신 설치 파일 받기](https://github.com/cliff7-3/hakgyo-jangbu-release/releases/latest/download/HakgyoJangbu_Setup_1.0.0.exe)**  ·  [모든 판](https://github.com/cliff7-3/hakgyo-jangbu-release/releases)
+**[최신 판 받기](https://github.com/cliff7-3/hakgyo-jangbu-release/releases/latest)** — 열린 화면 아래 「Assets」 에서 `HakgyoJangbu_Setup_….exe`
 
 1. 받은 `HakgyoJangbu_Setup_….exe` 를 두 번 누릅니다 (관리자 권한 필요 없음).
 2. 파란 「Windows의 PC 보호」 창이 뜨면 **「추가 정보」 → 「실행」**.
