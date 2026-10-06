@@ -2,6 +2,10 @@
 
 학교장터(S2B) 계약을 받아 엑셀 장부에 넣고, 발주서·상품 만들기·물품 등록·관리일 연장까지 돕는 윈도우 프로그램입니다.
 
+## 사용설명서
+
+**[사용설명서 PDF 받기](https://github.com/cliff7-3/hakgyo-jangbu-release/releases/latest/download/Manual_HakgyoJangbu.pdf)** — 설치부터 처음 설정, 장부 연결, 상품 만들기, 물품 등록, 관리일 연장, 사업자 여러 개까지 차례로 담았습니다.
+
 ## 받기
 
 **[최신 판 받기](https://github.com/cliff7-3/hakgyo-jangbu-release/releases/latest)** — 열린 화면 아래 「Assets」 에서 `HakgyoJangbu_Setup_….exe`
